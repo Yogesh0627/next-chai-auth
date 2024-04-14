@@ -4,6 +4,23 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+
+This is an authentication project in next js in which user can signup and sign in and sign out and after signup
+a verification email is sent for verification of user
+
+Tech Stack:-
+
+MERN
+Next Js
+
+libraries:-
+
+JWT
+Bcrypt
+axios
+nodemailer
+mongoose
+
 ```bash
 npm run dev
 # or
